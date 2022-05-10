@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Pizza Muzzarella",
+        "price": 700,
+        "src": "https://images.unsplash.com/photo-1513104890138-7c749659a591?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "id": 0
+    },
+    {
+        "name": "Pizza Napolitana",
+        "price": 850,
+        "src": "https://images.unsplash.com/photo-1576458088443-04a19bb13da6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "id": 1
+    },
+    {
+        "name": "Pizza Fugazzetta",
+        "price": 800,
+        "src": "https://images.unsplash.com/photo-1606674727310-6d55b6960d8f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "id": 2
+    },
+    {
+        "name": "Pizza Calabresa",
+        "price": 900,
+        "src": "https://images.unsplash.com/photo-1534308983496-4fabb1a015ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80",
+        "id": 3
+    },
+    {
+        "name": "Pizza Especial",
+        "price": 850,
+        "src": "https://images.unsplash.com/photo-1595378834205-4c72ec6f3c25?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "id": 4
+    },
+    {
+        "name": "Empanadas Carne",
+        "price": 100,
+        "src": "https://images.unsplash.com/photo-1646314230198-e27c375e1a2a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "id": 5
+    },
+    {
+        "name": "Empanadas JYQ",
+        "price": 100,
+        "src": "https://www.recetasparaguay.com/base/stock/Recipe/23-image/23-image_web.jpg",
+        "id": 6
+    },
+    {
+        "name": "Empanadas Pollo",
+        "price": 100,
+        "src": "http://alicante.com.ar/uploads/recetas/263_receta.jpg",
+        "id": 7
+    },
+    {
+        "name": "Sandiwch de Milanesa",
+        "price": 700,
+        "src": "https://www.comedera.com/wp-content/uploads/2021/06/sandwich-de-milanesa.jpg",
+        "id": 8
+    },
+    {
+        "name": "Lomito",
+        "price": 800,
+        "src": "https://www.circuitogastronomico.com/wp-content/uploads/2021/04/sur-nota.jpeg",
+        "id": 9
+    },
+    {
+        "name": "Juanacho",
+        "price": 650,
+        "src": "https://images.aws.nestle.recipes/original/e325ee3e44afc2a9857d0c93af885c6e_S%C3%A1ndwich_de_huevo_con_queso.jpg",
+        "id": 10
+    },
+    {
+        "name": "Tostado",
+        "price": 600,
+        "src": "https://img-global.cpcdn.com/recipes/94acb71b5a52d2cd/400x400cq70/photo.jpg",
+        "id": 11
+    },
+    {
+        "name": "Papas Fritas",
+        "price": 400,
+        "src": "https://images.unsplash.com/photo-1541592391523-5ae8c2c88d10?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "id": 12
+    },
+    {
+        "name": "Ensalada Mixta",
+        "price": 300,
+        "src": "https://4.bp.blogspot.com/-HMR6m-d3oPk/V2wL9yn-pCI/AAAAAAAAEOk/WV716jG4oqEE1-Hd5-m0fZYjwrtYcpdzgCLcB/s1600/Ensaladamixta2.jpg",
+        "id": 13
+    },
+    {
+        "name": "Milanesa al plato",
+        "price": 900,
+        "src": "https://static.misionesonline.news/wp-content/uploads/2020/05/28163533/milaaa.jpg",
+        "id": 14
+    },
+    {
+        "name": "Lomo al plato",
+        "price": 600,
+        "src": "http://ainchile.cl/wp-content/uploads/2016/04/12931082_1600760780245710_3107546354911205696_n.jpg",
+        "id": 15
+    },
+    {
+        "name": "Vino de la casa",
+        "price": 600,
+        "src": "https://images.unsplash.com/photo-1553361371-9b22f78e8b1d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "id": 16
+    },
+    {
+        "name": "Coca Cola x 2.25",
+        "price": 400,
+        "src": "https://images.unsplash.com/photo-1618914059174-40767c46f838?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "id": 17
+    },
+    {
+        "name": "7up x 2.25",
+        "price": 400,
+        "src": "http://d3ugyf2ht6aenh.cloudfront.net/stores/001/170/454/products/7up-2l1-b0630fd120ff73d4ad15931858357226-640-0.jpg",
+        "id": 18
+    },
+    {
+        "name": "Cerveza de la Casa",
+        "price": 500,
+        "src": "https://images.unsplash.com/photo-1608270586620-248524c67de9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "id": 19
+    }
+]
